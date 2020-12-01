@@ -1,0 +1,5 @@
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_MOVIE_DATA = 'SET_MOVIE_DATA';
+export const SET_CATEGORY_DATA = 'SET_CATEGORY_DATA';
+export const SHOW_DIALOG = 'SHOW_DIALOG';
+export const SHOW_INDICATOR = 'SHOW_INDICATOR';
